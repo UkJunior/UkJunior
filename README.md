@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m Magnus Uche (ukjunior).
 - 👀 I’m interested in Frontend Web Dev.
-- 🔭 I am available for an internship opportunity.
+- 🔭 I am available for an internship opportunity and entry roles.
 - 🌱 I am currently studying and developing applications using React, as well as analyzing technical indicators using cand stick patterns.
 - 💞️I am interested in collaborating on any type of Frontend-related project or challenge.
 - 📫 How to reach me devmagnusuche@gmail.com
